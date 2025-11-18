@@ -1,9 +1,9 @@
-# Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
+# Exno.9: To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date:
-# Register no.: 212222230171
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+## Date:
+## Register no.: 212222230171
+## Aim: To perform the Exploration of Prompting Techniques for Video Generation
+## Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
@@ -40,7 +40,7 @@ Start with basic prompts focused on the main subject or scene.
 
 ## Output Goal: A short video illustrating a simple scenario.
 
-# Experiment with More Detailed Prompts
+## Experiment with More Detailed Prompts
 Incorporate more contextual detail:
 
 Setting
@@ -56,7 +56,7 @@ Companion entities
 
 ## Output Goal: Evaluate if tools respond well to rich visual descriptions.
 
-# Add Time and Motion Elements
+## Add Time and Motion Elements
 Introduce temporal dynamics and camera behaviors:
 
 Time-lapse
@@ -70,7 +70,7 @@ Scene transitions
 
 ## Check: How accurately does the model simulate motion or transitions?
 
-# Test Different Video Styles
+## Test Different Video Styles
 Try prompts in different genres:
 
 Animation
@@ -86,7 +86,7 @@ Educational/tutorial
 
 ## Observe: Style fidelity, color tones, realism vs abstraction.
 
-# Iterate and Adjust Prompts
+## Iterate and Adjust Prompts
 Refine prompts based on:
 
 Pacing
@@ -102,7 +102,7 @@ Scene continuity
 
 ## Action: Compare new output to previous versions.
 
-# Generate Multiple Versions per Prompt
+## Generate Multiple Versions per Prompt
 Create slight variations of the same prompt:
 
 Synonym changes
@@ -119,18 +119,19 @@ Swapping descriptors
 
 ## Output Goal: Identify how phrasing impacts generation quality and interpretation.
 
-# Save and Compare Outputs:
+## Save and Compare Outputs:
 
 ![image](https://github.com/user-attachments/assets/b9e37631-5a60-4b3c-891e-d9bc9173252b)
 
-# google drive link:
+## google drive link:
 https://drive.google.com/file/d/1igFomUvociTc9c_c9eJGqk1meG0AVs4e/view?usp=sharing
 
 https://drive.google.com/file/d/1h7z0swbO49qrZxeai86iim1m1V3AHvSA/view?usp=sharing
 
 https://drive.google.com/file/d/1PFCtzrspqpaSHBZ6usDEE9A24Reo2y88/view?usp=sharing
 
-# Result: The Prompt of the above task executed successfully
+## Result:
+The Prompt of the above task executed successfully
 
 
 
